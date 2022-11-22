@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin Dhonde</h1>
 <h3 align="center">Frontend Developer(React.js)</h3>
-<img  src="https://www.upwork.com/catalog-images-resized/5b7d82263030da89fc8f2a4a141d8313/large"/>
+<img  src="https://i.pinimg.com/736x/bc/83/b6/bc83b6576fdadfdabeb81b1e29e547e5--banners-fonts.jpg"/>
 
 
 ## 🙋‍♂️ About Me
