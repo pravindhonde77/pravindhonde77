@@ -9,15 +9,16 @@
 I am passionate Frontend Developer. I would like for developing web applications and working across the fullstack.
 
 
-- 🌱 Learnt **Frontend Development**
+- 🌱 Learnt **Full Stack Developer (MERN)**
 
-- 👯 I’m looking to work as **Frontend Web Developer**
+- 👯 I’m looking to work as **MERN Stack Developer / React JS Developer**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/pravindhonde77?tab=repositories)**
 
 - 📫 How to reach me **pravindhonde77@gmail.com**
 
 - 🔭 Know more about me **[Portfolio](https://dashing-semifreddo-55f9f5.netlify.app/)**
+
 
 
 ## 🚀 Languages and Tools:
