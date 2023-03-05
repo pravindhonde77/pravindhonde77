@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin Dhonde</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
-<img  src="[https://drive.google.com/file/d/1_7zBu-2YaCYiPVwjqjVD_6RBvIxWaAe3/view?usp=share_link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nkvak%2Ffrom-ux-to-web-development-c119a3171bf9%3Fsource%3Dpost_internal_links---------7----------------------------&psig=AOvVaw0RB91M1uC-px_nc4NCpVtx&ust=1678100648141000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDbqJrSxP0CFQAAAAAdAAAAABAE)"/>
+<img  src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"/>
 
 
 ## 🙋‍♂️ About Me
