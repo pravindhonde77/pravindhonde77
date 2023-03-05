@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin Dhonde</h1>
-<h3 align="center">Frontend Developer(React.js)</h3>
+<h3 align="center">Full Stack Web Developer (MERN)</h3>
 <img  src="https://i.pinimg.com/736x/bc/83/b6/bc83b6576fdadfdabeb81b1e29e547e5--banners-fonts.jpg"/>
 
 
