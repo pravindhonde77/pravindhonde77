@@ -13,7 +13,7 @@ I am passionate Full Stack Developer . I would like for developing web applicati
 
 - 🌱 Learnt **Full Stack Web Development from Masai School**
 
-- 👯 I’m looking to work as **Full Stack Web Developer**
+- 👯 I’m looking to work as **Full Stack Web Developer (MERN Stack Developer /React JS Developer)**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/pravindhonde77?tab=repositories)**
 
