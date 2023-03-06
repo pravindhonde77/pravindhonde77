@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Pravin Dhonde</h1>
-<h3 align="center">Full Stack Web Developer (MERN)</h3>
-<img  src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"/>
+<h3 align="center">Full Stack Developer (MERN)</h3>
+<div align="center">
+<img   src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"/>
+</div>
 
 
 ## 🙋‍♂️ About Me
 
 
-I am passionate Frontend Developer. I would like for developing web applications and working across the fullstack.
+I am passionate Full Stack Developer . I would like for developing web applications and working across the fullstack.
 
 
-- 🌱 Learnt **Full Stack Developer (MERN)**
+- 🌱 Learnt **Full Stack Web Development from Masai School**
 
-- 👯 I’m looking to work as **MERN Stack Developer / React JS Developer**
+- 👯 I’m looking to work as **Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/pravindhonde77?tab=repositories)**
 
 - 📫 How to reach me **pravindhonde77@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://dashing-semifreddo-55f9f5.netlify.app/)**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/pravin-dhonde-17aa5b22a/)**
 
+- 🔭 Know more about me **[Portfolio](https://dashing-semifreddo-55f9f5.netlify.app/)**
 
 
 ## 🚀 Languages and Tools:
@@ -38,11 +41,11 @@ I am passionate Frontend Developer. I would like for developing web applications
   
 </div>
  <br/>
-  <!-- <div align="center"><h3 align="center">Backend</h3> 
+  <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- </div> -->
+ </div>
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
@@ -59,12 +62,11 @@ I am passionate Frontend Developer. I would like for developing web applications
 
 
 ## 🚀 Top Projects :
-
  - E-Commerce React-Redux **[Github Repository](https://github.com/pravindhonde77/Ecommerce_wesite_by_React)**
  
- - React-Redux-MiniApp **[Github Repository](https://github.com/pravindhonde77/MiniApp)**
- 
- - bluefly.com-Clone  **[Github Repository](https://github.com/pravindhonde77/unit-3-project-details---bluefly)**
+ - React-Redux-MiniApp  **[Github Repository](https://github.com/pravindhonde77/MiniApp)**
+
+ - bluefly.com-Clone   **[Github Repository](https://github.com/pravindhonde77/unit-3-project-details---bluefly)**
 
  - lumen5.com-Clone   **[Github Repository](https://github.com/spaswan141/lumen5)**
 
@@ -74,5 +76,4 @@ I am passionate Frontend Developer. I would like for developing web applications
  
 <br/>
 <br/>
-
 
